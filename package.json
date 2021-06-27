@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/utils-async-for-each",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Invoke a function once for each element in a collection.",
   "license": "Apache-2.0",
   "author": {
