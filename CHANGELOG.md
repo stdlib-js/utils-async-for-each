@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-11-26)
+## Unreleased (2025-12-07)
 
 <section class="issues">
 
@@ -24,6 +24,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`a0f2b40`](https://github.com/stdlib-js/stdlib/commit/a0f2b403a936770b83022b57027ad17312e15bb7) - **docs:** update example _(by Athan Reines)_
 -   [`54f9e1b`](https://github.com/stdlib-js/stdlib/commit/54f9e1b148a5b28618ff25e2b49fa2bd7dc8e946) - **chore:** fix JavaScript lint errors [(#8582)](https://github.com/stdlib-js/stdlib/pull/8582) _(by kaushal-kumar-it)_
 -   [`6bb3c64`](https://github.com/stdlib-js/stdlib/commit/6bb3c64c915bb33715e5256fa8073e46b9a4d443) - **docs:** update examples in TSDoc comments in `utils/async` for doctesting _(by Philipp Burckhardt)_
 -   [`07f7c05`](https://github.com/stdlib-js/stdlib/commit/07f7c0522c73e6ad9505e1d45035ae439344200d) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
@@ -39,8 +40,9 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Philipp Burckhardt
 -   kaushal-kumar-it
 
