@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-04-19)
+## Unreleased (2026-05-03)
 
 <section class="commits">
 
@@ -12,6 +12,8 @@
 
 <details>
 
+-   [`822fadc`](https://github.com/stdlib-js/stdlib/commit/822fadca5619ac17182fad841af43ec6d1cdd81e) - **bench:** refactor to use string interpolation in `utils` [(#11410)](https://github.com/stdlib-js/stdlib/pull/11410) _(by Karan Anand, Athan Reines)_
+-   [`0dc62ae`](https://github.com/stdlib-js/stdlib/commit/0dc62ae39a4817ff888e9736c3ea599f6beff4e5) - **build:** replace `eslint-plugin-node` with `eslint-plugin-n` [(#10952)](https://github.com/stdlib-js/stdlib/pull/10952) _(by Philipp Burckhardt, Athan Reines)_
 -   [`67cdf3c`](https://github.com/stdlib-js/stdlib/commit/67cdf3cc8be241859493c2da00974d595eef73cb) - **chore:** propagate recent doctest and lint fixes to sibling packages [(#11585)](https://github.com/stdlib-js/stdlib/pull/11585) _(by Philipp Burckhardt)_
 
 </details>
@@ -24,8 +26,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
+-   Karan Anand
 -   Philipp Burckhardt
 
 </section>
